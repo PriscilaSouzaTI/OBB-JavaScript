@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(204, 52, 146);  
+}
+
+#conteudo{
+    border: solid rgb(129, 22, 88) 2px;
+    padding: 5px 5px;
+    margin-left: 10%;
+    width: 900px;
+    height: 452px;
+    background-color: rgb(255, 255, 255);   
+    color: rgb(204, 52, 146);
+    font-weight: bolder;
+}
+
+#background{
+    color: rgb(204, 52, 146);
+    background-color: rgb(204, 52, 146);
+}
+
+
